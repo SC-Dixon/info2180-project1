@@ -1,5 +1,5 @@
 /* Add your JavaScript to this file */
-window.onload - function()
+window.onload = function()
 {
     var myform = document.querySelector('form');
 
